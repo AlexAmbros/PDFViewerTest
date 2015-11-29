@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test_key_storage</string>
+    <string name="key_alias">key alias</string>
+    <string name="generate">generate</string>
+    <string name="initial_text">initial text</string>
+    <string name="final_text">final text</string>
+    <string name="decrypt_result">decrypt result</string>
+    <string name="encrypt">encrypt</string>
+    <string name="decrypt">decrypt</string>
+    <string name="delete">delete</string>
+</resources>

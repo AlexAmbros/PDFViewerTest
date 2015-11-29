@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Android-Pdf-Viewer-Library-master/Android-Pdf-Viewer-Library-master.iml" filepath="$PROJECT_DIR$/../Android-Pdf-Viewer-Library-master/Android-Pdf-Viewer-Library-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_pdf_viewer.iml" filepath="$PROJECT_DIR$/test_pdf_viewer.iml" />
+    </modules>
+  </component>
+</project>
